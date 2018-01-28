@@ -11,3 +11,4 @@
  - Collaborate in Virtual Reality with Nvidia's Holodeck - CES 2018: https://www.youtube.com/watch?v=bFNI3IJi0_c
  - NVIDIA Holodeck: Photorealistic Collaborative Design in VRhttps://www.youtube.com/watch?v=goFZOTjCVFg
  - Live demo: https://www.youtube.com/watch?v=DLCS0U7B0gY
+ - GTC Presentation: https://www.youtube.com/watch?v=0e4187XNaW4
